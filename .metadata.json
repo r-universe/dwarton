@@ -1,0 +1,18 @@
+[
+  {
+    "package": "ecostats",
+    "oncran": true
+  },
+  {
+    "package": "ecostats",
+    "oncran": true
+  },
+  {
+    "package": "mvabund",
+    "oncran": true
+  },
+  {
+    "package": "mvabund",
+    "oncran": true
+  }
+]

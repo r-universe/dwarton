@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ecostats"]
+	path = ecostats
+	url = https://github.com/dwarton/ecostats
+	shallow = true
+	registered = true
+[submodule "mvabund"]
+	path = mvabund
+	url = https://github.com/dwarton/mvabund
+	shallow = true
+	registered = true
